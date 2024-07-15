@@ -65,7 +65,8 @@ git push origin add-book-reviews
 Pushing the `add-book-reviews` branch to Githib and raise a PR for Morgans's work.
 ![](./images/Create-PR.png)
 
-Merging Morgan's work to main branch
+* Merging Morgan's work to main branch
+
 ![](./images/merging-PR_book.png)
 ![](./images/merged_PR_book.png)
 
