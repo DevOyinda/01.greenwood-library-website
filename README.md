@@ -48,7 +48,7 @@ In VSCode, I craeted four new html files. `home.html`, `events.html`, `contact_u
 * Creating a Branch for Morgan
 switch to a new branch named `add-book-reviews`
 * add book reviews section
-creating a new file `book_reviews.html to represent book review section
+creating a new file `book_reviews.html` to represent book review section
 added content into the file.
 * stage, commit and push changes to gitub.
 ```bash
