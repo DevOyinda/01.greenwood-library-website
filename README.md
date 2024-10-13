@@ -1,5 +1,5 @@
 # greenwood-library-website
-This is the repository for my Capstone Project on Git.
+This is the repository for my DevOps Capstone Project on Git.
 
 # PROJECT 1: Greenwood Library Website
 
